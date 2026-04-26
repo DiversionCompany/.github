@@ -1,5 +1,6 @@
 # Diversion
 
+Diversion is a scalable version control system: https://www.diversion.dev
 <!--
 
 **Here are some ideas to get you started:**
