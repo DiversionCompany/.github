@@ -1,7 +1,7 @@
 <img width="1128" height="191" alt="banner" src="https://github.com/user-attachments/assets/3387841a-4f6a-44ba-97d7-b3c3e1ba222a" />
 
+---
 <div align="center">
-**A cloud-native version control system for projects with large files and large teams.**
 
 [![Website](https://img.shields.io/badge/Website-diversion.dev-0A66C2?style=flat-square)](https://www.diversion.dev)
 [![Docs](https://img.shields.io/badge/Docs-docs.diversion.dev-1E88E5?style=flat-square)](https://docs.diversion.dev)
@@ -11,8 +11,6 @@
 ![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20macOS%20%7C%20Linux-444?style=flat-square)
 
 </div>
-
----
 
 ## What is Diversion?
 
