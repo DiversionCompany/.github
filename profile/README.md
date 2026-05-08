@@ -1,9 +1,6 @@
 <img width="1128" height="191" alt="banner" src="https://github.com/user-attachments/assets/3387841a-4f6a-44ba-97d7-b3c3e1ba222a" />
 
 <div align="center">
-
-# Diversion
-
 **A cloud-native version control system for projects with large files and large teams.**
 
 [![Website](https://img.shields.io/badge/Website-diversion.dev-0A66C2?style=flat-square)](https://www.diversion.dev)
